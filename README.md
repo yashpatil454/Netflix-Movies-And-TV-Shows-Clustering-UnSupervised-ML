@@ -5,9 +5,8 @@
 <p>Netflix Movies And TV Shows Clustering dataset consists of tv shows and movies available on Netflix as of 2019. The dataset is collected from Flixable which is a third-party Netflix search. In 2018, they released an interesting report which shows that the number of TV shows on Netflix has nearly tripled since 2010. The streaming service’s number of movies has decreased by more than 2,000 titles since 2010, while its number of TV shows has nearly tripled. It will be interesting to explore what all other insights can be obtained from the same dataset.</p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/67974590/215528305-33cb1eec-8634-48cc-9b26-8294965ec371.gif">
+  <img src="https://user-images.githubusercontent.com/67974590/217804361-d862f742-dab4-446c-9c58-6e4e396d2259.gif" width="70%">
 </p>
-
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -18,11 +17,8 @@
   * Goal
   * Dataset Information
   * Exploratory Data Analysis
-  * Random Forest Model
-  * Logistic Regression Model
-  * Support Vector Machine Model
-  * Multinomial Naive Bayes Model
-  * Technologies Used
+  * K Means Clustering
+  * Agglomerative Hierarchical Clustering
   
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -80,11 +76,21 @@ Production of movies started mainly started from 2000's and many more key findin
  <h2> :book: K-Means Clustering</h2>
 
 <p>K-Means Clustering is a type of unsupervised learning in machine learning, used for cluster analysis. It partitions data into K number of clusters, where each data point belongs to the cluster with the nearest mean. The algorithm iteratively updates the mean values and the cluster assignments, until the cluster means no longer change or a maximum number of iterations is reached.
+  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/67974590/217806001-38711a86-0648-4683-9d88-d4994c0888fb.jpg" width="70%">
+</p>
+
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+<h2> :book: Agglomerative Hierarchical Clustering</h2>
 
-
+<p>In Agglomerative Hierarchical analysis the dendrogram is constructed by starting with each data point as a separate cluster and iteratively merging the closest clusters until all data points belong to a single cluster. Dendrograms are commonly used in hierarchical clustering to represent the relationships between data points and the clusters they belong to.The dendrogram displays the hierarchy of clusters by showing the relationships between merged clusters and the distances between them.
+  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/67974590/217806548-2e8af3bf-a994-4f70-82c8-2f1294afd652.png">
+</p>
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
