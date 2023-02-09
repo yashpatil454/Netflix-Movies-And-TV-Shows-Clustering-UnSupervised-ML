@@ -66,10 +66,22 @@ Most of the fields are self-explanatory. The following are descriptions for thos
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2> :chart_with_upwards_trend: Exploratory Data Analysis</h2>
-<p>Exploratory Data Analysis concluded that TV-MA is the highest rated series with 2861, which means it is intended for mature audiences only and contains content that may not be suitable for children. Netflix has a greater number of movies than TV shows, with 69.14% movies and 30.86% TV shows.
+<p>Exploratory Data Analysis concluded that TV-MA is the highest rated series with 2861, which means it is intended for mature audiences only and contains content that may not be suitable for children. 
+  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/67974590/217807093-0b14b879-bcb7-414f-a6fe-f36596256030.png">
+</p>
+
+Netflix has a greater number of movies than TV shows, with 69.14% movies and 30.86% TV shows.
 Raúl Campos and Jan Suter have directed the highest number of films i.e. 18 films.
 USA has highest number of Films and TV-shows, but in India Films are made on a large scale as compared to TV-shows
 Production of movies started mainly started from 2000's and many more key findings.<p>
+  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/67974590/217807275-92a0bed3-1e26-4fd9-bc42-c2c20a5e1554.png">
+</p> 
+
+For more EDA visualizations please refer the notebook.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
